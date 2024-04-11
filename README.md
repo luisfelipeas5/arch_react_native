@@ -4,7 +4,7 @@ Esse projeto tem o objetivo de servir como um estudo de arquitetura para um proj
 
 ## Quais são as dores?
 
-- Acoplamento de serviços com React, regras de negócio e SDK de terceiros ou parceiros 
+- Acoplamento de serviços com as Views, regras de negócio e SDK de terceiros ou parceiros 
 - Falta de clareza no padrão da organização dos diretórios
 - Falta de arquitetura de testes
 - Falta de clareza nos limites das features
